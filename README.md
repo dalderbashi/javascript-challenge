@@ -1,3 +1,7 @@
+# Live Website
+
+For the live website, visit this link: https://dalderbashi.github.io/javascript-challenge/
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
